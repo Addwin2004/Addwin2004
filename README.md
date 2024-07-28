@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Addwin Antony Stephen
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Bachelours in Computer Application
+- 🌱 I’m currently learning Bachelors in Computer Application
 - 📫 How to reach me : addwinstephen@gmail.com
 - 😄 Pronouns: He/Him
 
