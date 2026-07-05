@@ -1,5 +1,6 @@
 # 💫 About Me:
-MCA (Information Security) student and cybersecurity enthusiast.<br>Full stack developer with React, Node.js, Express, and MySQL.<br>Focused on ethical hacking, secure systems, and backend architecture.<br>Working toward CompTIA Security+ and a career in cybersecurity.
+
+I'm an MCA (Information Security) student who enjoys building projects, exploring new security concepts, and solving real-world challenges through continuous learning and hands-on practice.<br>Working toward CompTIA Security+ and a career in cybersecurity.
 
 
 ## 🌐 Socials:
